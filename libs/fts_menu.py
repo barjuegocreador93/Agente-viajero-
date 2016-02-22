@@ -1,3 +1,4 @@
+#@autor: Camilo Barbosa
 import os
 
 _CLEAR_="clear"
